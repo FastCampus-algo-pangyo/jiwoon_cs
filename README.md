@@ -10,5 +10,6 @@
 <tr><td rowspan="2">4주차</td><td><a href = "https://nebulaisme.tistory.com/72">비선형 자료구조 : 그래프</a></td></tr>
   <tr><td><a href = "https://nebulaisme.tistory.com/73">비선형 자료구조 : 힙</a></td></tr>
 <tr><td>6주차</td><td><a href = "https://nebulaisme.tistory.com/87">데이터베이스 프로그래밍, JDBC</a></td></tr>
+<tr><td>7주차</td><td><a href = "https://nebulaisme.tistory.com/93">ERD와 정규화 과정</a></td></tr>
   
 </table>
