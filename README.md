@@ -12,5 +12,6 @@
 <tr><td>7주차</td><td><a href = "https://nebulaisme.tistory.com/93">ERD와 정규화 과정</a></td></tr>
 <tr><td>9주차</td><td><a href = "https://nebulaisme.tistory.com/97">MVC 패턴</a></td></tr>
 <tr><td>10주차</td><td><a href = "https://nebulaisme.tistory.com/105">인덱스</a></td></tr>
+<tr><td>12주차</td><td><a href = "https://nebulaisme.tistory.com/114">운영체제와 컴퓨터</a></td></tr>
   
 </table>
